@@ -1,0 +1,21 @@
+# 原文ストアの中身は履歴に入れない（対話ログそのものなので）
+corpus/*.jsonl
+corpus/*.idx
+
+# 監視の記録は生データなので、必要なものだけ手で追加する
+計測の記録/監視/*.jsonl
+
+node_modules/
+.DS_Store
+
+# Local runtime data
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+__pycache__/
+*.pyc
+node_modules/
+.next/
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "context-gateway",
+  "version": "0.1.0",
+  "description": "3L-HCCG v0.4 — 3層階層型コンテキスト制御ゲートウェイの共通基盤",
+  "type": "module",
+  "main": "index.mjs",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test tests/",
+    "monitor": "node bin/gw-monitor.mjs",
+    "corpus": "node bin/gw-corpus.mjs",
+    "report": "node bin/gw-report.mjs"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
