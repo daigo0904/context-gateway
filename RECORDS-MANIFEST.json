@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-01",
+  "files": [
+    {
+      "path": "計測の記録/probe.mjs",
+      "source": "~/文脈ゲートウェイ/計測の記録/probe.mjs",
+      "source_sha256": "da5181afc35f1571d610a6980f8f25e4f3836bc393b95bcf2d3ffec4d7e5d981",
+      "published_sha256": "bbad6821b1d6074667c58daadbcaed70fd0ecf4bdf19425bdb16213a0d18d2b5"
+    },
+    {
+      "path": "計測の記録/arm2.mjs",
+      "source": "~/文脈ゲートウェイ/計測の記録/arm2.mjs",
+      "source_sha256": "753b6e1ece6f60d8e8d83800754b909fb40c39708362e6ceb10fcae7dc8e09bf",
+      "published_sha256": "7786a8febcd10bc6b8e24ed30bed6b45b0e82a77d2e399ae9716a81c898b7b46"
+    },
+    {
+      "path": "計測の記録/oll.mjs",
+      "source": "~/文脈ゲートウェイ/計測の記録/oll.mjs",
+      "source_sha256": "39768587ce83c2b916feb0afe2ad1730ca766e91e3c554e9c2b84cfd280f28bf",
+      "published_sha256": "39768587ce83c2b916feb0afe2ad1730ca766e91e3c554e9c2b84cfd280f28bf"
+    },
+    {
+      "path": "計測の記録/run-arms2.sh",
+      "source": "~/文脈ゲートウェイ/計測の記録/run-arms2.sh",
+      "source_sha256": "e5c0bdcae207a75592c6f214638473a787e84a3e28fb502c78b1d6b9f2a5b080",
+      "published_sha256": "e5c0bdcae207a75592c6f214638473a787e84a3e28fb502c78b1d6b9f2a5b080"
+    },
+    {
+      "path": "計測の記録/probe-out.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/probe-out.txt",
+      "source_sha256": "7db99d2b2c1a677bffb6c74b169be27fc60ebbb7660904c271b1fea9e361293c",
+      "published_sha256": "7db99d2b2c1a677bffb6c74b169be27fc60ebbb7660904c271b1fea9e361293c"
+    },
+    {
+      "path": "計測の記録/arm.mjs",
+      "source": "~/文脈ゲートウェイ/計測の記録/arm.mjs",
+      "source_sha256": "3d6bc54650da82daa49ad0f07ce6e625f803cfc2dae57a168a157e286cd37362",
+      "published_sha256": "c82c70571c40bde31c6a16a7a732bea5abbf1123e16e6c1e3b57ed73156dcf9c"
+    },
+    {
+      "path": "計測の記録/解析/qwc-3つの手.md",
+      "source": "~/文脈ゲートウェイ/計測の記録/解析/qwc-3つの手.md",
+      "source_sha256": "911d4f27571bf2ee5c01bfe7046e5a0b083be1f851579d99a2304d1d77c4bca2",
+      "published_sha256": "911d4f27571bf2ee5c01bfe7046e5a0b083be1f851579d99a2304d1d77c4bca2"
+    },
+    {
+      "path": "計測の記録/解析/arms-parse.mjs",
+      "source": "~/文脈ゲートウェイ/計測の記録/解析/arms-parse.mjs",
+      "source_sha256": "d720c95ce4ad0335809f3bb257a90d94ec5c4c1334738756519643f4384710b7",
+      "published_sha256": "d720c95ce4ad0335809f3bb257a90d94ec5c4c1334738756519643f4384710b7"
+    },
+    {
+      "path": "計測の記録/解析/生成トークンの内訳.md",
+      "source": "~/文脈ゲートウェイ/計測の記録/解析/生成トークンの内訳.md",
+      "source_sha256": "684e4c5b9ada13199606d4346f95a36e4e00d679a9cbe5a0f6cd73572bfe5345",
+      "published_sha256": "684e4c5b9ada13199606d4346f95a36e4e00d679a9cbe5a0f6cd73572bfe5345"
+    },
+    {
+      "path": "計測の記録/解析/手順4-結果.md",
+      "source": "~/文脈ゲートウェイ/計測の記録/解析/手順4-結果.md",
+      "source_sha256": "cb6cc9b0124c57b4b16de99de777b167966fc15ce806ada3d72f5ada94816c0c",
+      "published_sha256": "cb6cc9b0124c57b4b16de99de777b167966fc15ce806ada3d72f5ada94816c0c"
+    },
+    {
+      "path": "計測の記録/解析/arms.json",
+      "source": "~/文脈ゲートウェイ/計測の記録/解析/arms.json",
+      "source_sha256": "b27ab464e20a0bb055cf245ef1189806e4724cfd908a3083f954b244446e4cab",
+      "published_sha256": "b27ab464e20a0bb055cf245ef1189806e4724cfd908a3083f954b244446e4cab"
+    },
+    {
+      "path": "計測の記録/arms/r2-new.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r2-new.txt",
+      "source_sha256": "a0df1e479a0ca1acfb204e787d32b47cd9b454eb46263b16f47d663d57148471",
+      "published_sha256": "a0df1e479a0ca1acfb204e787d32b47cd9b454eb46263b16f47d663d57148471"
+    },
+    {
+      "path": "計測の記録/arms/r1-every.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-every.txt",
+      "source_sha256": "14a996a6584e8934229d7be1c3640f65f0977df9f6581bd880bf5bd7914613b3",
+      "published_sha256": "14a996a6584e8934229d7be1c3640f65f0977df9f6581bd880bf5bd7914613b3"
+    },
+    {
+      "path": "計測の記録/arms/run.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/run.log",
+      "source_sha256": "6f406ae7e0b5c077f83a98f2d9fb6d13f4596cf3a007756be4e2d076493f7ffa",
+      "published_sha256": "6f406ae7e0b5c077f83a98f2d9fb6d13f4596cf3a007756be4e2d076493f7ffa"
+    },
+    {
+      "path": "計測の記録/arms/r2-every.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r2-every.log",
+      "source_sha256": "123bee91494f1259fa2dfe4bc10b67bfa7e95698031e2e0132547f37ce7f1763",
+      "published_sha256": "123bee91494f1259fa2dfe4bc10b67bfa7e95698031e2e0132547f37ce7f1763"
+    },
+    {
+      "path": "計測の記録/arms/r1-new.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-new.txt",
+      "source_sha256": "d65deb64ae52035afe1ecad400a4f34d0b599ca4a7901365c98c73855c140c77",
+      "published_sha256": "d65deb64ae52035afe1ecad400a4f34d0b599ca4a7901365c98c73855c140c77"
+    },
+    {
+      "path": "計測の記録/arms/r1-none.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-none.log",
+      "source_sha256": "9e06826ea94c73f0aa6b068f22f05c13c469fa4c1ef6e215019804a46e7a20cf",
+      "published_sha256": "9e06826ea94c73f0aa6b068f22f05c13c469fa4c1ef6e215019804a46e7a20cf"
+    },
+    {
+      "path": "計測の記録/arms/r2-new.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r2-new.log",
+      "source_sha256": "b6cfa29690726da40b34fb5b922941bd0ac45e5428aa965e12e22d125e60a1dc",
+      "published_sha256": "b6cfa29690726da40b34fb5b922941bd0ac45e5428aa965e12e22d125e60a1dc"
+    },
+    {
+      "path": "計測の記録/arms/r1-every.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-every.log",
+      "source_sha256": "046bd9e80634536319aec08939fd602871924b90c93b097d04c863c472a5ef06",
+      "published_sha256": "046bd9e80634536319aec08939fd602871924b90c93b097d04c863c472a5ef06"
+    },
+    {
+      "path": "計測の記録/arms/times.tsv",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/times.tsv",
+      "source_sha256": "403677a57e6171bd3ee2c5da0900c973a38e5967aa36cd3a570ea67b4e6fb704",
+      "published_sha256": "403677a57e6171bd3ee2c5da0900c973a38e5967aa36cd3a570ea67b4e6fb704"
+    },
+    {
+      "path": "計測の記録/arms/r2-none.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r2-none.log",
+      "source_sha256": "1cc9cbfd9a8934c3d9686523ea0d7c7f8d200b2759c1bc4a335a5c3fdc9a8cb5",
+      "published_sha256": "1cc9cbfd9a8934c3d9686523ea0d7c7f8d200b2759c1bc4a335a5c3fdc9a8cb5"
+    },
+    {
+      "path": "計測の記録/arms/r2-every.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r2-every.txt",
+      "source_sha256": "39f42db219f7366a7a80941a3c3bc5d163f3b24672f42c873c0363144d1f3d6a",
+      "published_sha256": "39f42db219f7366a7a80941a3c3bc5d163f3b24672f42c873c0363144d1f3d6a"
+    },
+    {
+      "path": "計測の記録/arms/r1-new.log",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-new.log",
+      "source_sha256": "1bbe9025c51460d6e8717be72c7e9ebb9b927dc685c1bfbbcfb9f385537f2ef2",
+      "published_sha256": "1bbe9025c51460d6e8717be72c7e9ebb9b927dc685c1bfbbcfb9f385537f2ef2"
+    },
+    {
+      "path": "計測の記録/arms/r1-none.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/r1-none.txt",
+      "source_sha256": "c72e22a9a942f1f7c01f7f3e06622c5032b5ae106ccbbac9583beb9e776867d1",
+      "published_sha256": "c72e22a9a942f1f7c01f7f3e06622c5032b5ae106ccbbac9583beb9e776867d1"
+    },
+    {
+      "path": "計測の記録/arms/破棄/r2-none.txt",
+      "source": "~/文脈ゲートウェイ/計測の記録/arms/破棄/r2-none.txt",
+      "source_sha256": "9c113678b868bd9f0042b951d97454d95b935ea9a47c6de0a01ae25cef75539f",
+      "published_sha256": "9c113678b868bd9f0042b951d97454d95b935ea9a47c6de0a01ae25cef75539f"
+    }
+  ],
+  "excluded": []
+}
